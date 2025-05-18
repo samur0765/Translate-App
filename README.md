@@ -14,4 +14,4 @@ React ile geliştirilmiş modern ve kullanıcı dostu bir çeviri uygulaması. K
 
 # 📸 Ekran Görüntüsü
 
-![](kayıt.gif)
+![](public/kayıt.gif)
